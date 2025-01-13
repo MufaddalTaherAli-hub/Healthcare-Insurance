@@ -12,3 +12,4 @@ opencv-python
 jupyter
 streamlit
 streamlit-option-menu
+openpyxl
