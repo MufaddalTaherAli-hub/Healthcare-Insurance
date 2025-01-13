@@ -16,6 +16,3 @@ if selected == 'Home':
 else:
     from multiple_pages.Analysis_page import show_analysis_page
     show_analysis_page()
-
-
-

@@ -10,3 +10,5 @@ bokeh
 pillow
 opencv-python
 jupyter
+streamlit
+streamlit-option-menu
